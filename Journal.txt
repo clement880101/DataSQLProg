@@ -1,1 +1,2 @@
 8/22	Today, we learned about version control tool (VCR) and in particular, git. Then, we dowloaded git and try what we just learned hands on. We tried command such as git add/commit/pull/push etc.
+Hello I am making changes.
