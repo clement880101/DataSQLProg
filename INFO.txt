@@ -1,3 +1,0 @@
-My first experience in programming is in Window Visual Basic. It is certainly not a fully fledged language, but I
-learned how to think when programming. I, then, learned Java and C++ in school. I've created a tic-tak-toe program
-that runs on the cmd.
