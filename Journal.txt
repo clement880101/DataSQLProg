@@ -1,2 +1,3 @@
 8/22	Today, we learned about version control tool (VCR) and in particular, git. Then, we dowloaded git and try what we just learned hands on. We tried command such as git add/commit/pull/push etc.
 8/25	Today, using pokemon and excel spreadsheet, we tried to prove why spreadsheet database is faulty and that a management system is needed. We started the class by creating a hypothetical pokemon station. We then try to enter the consumer data into a spreadsheet and we identified a few problems.
+8/20	Today, we learned to construct a relational database (that is what I think it is called) where we splice up the big and chuncy table into small table and give ID to each instances. We then cosntruct a base table where the ids related to one another are linked together.
