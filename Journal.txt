@@ -4,3 +4,4 @@
 9/01	Today, we learned how to construct a ER diagram from a relational database. As homework from last time, the relational database is used as an example to construct the ER. I learned that, in ER, rectangle represents entities, oval represents attributes, and rhombus represents relationship. \
 9/05    Today, we learned about the more complex part of ER diagram including weak relationships, relationship with an attribute roles, and relationships with roll. We also cronstruct a few mor ER as a class.\
 9/08	Today, we reviewed the concepts we cover in the past two days on ER diagram. We tackle some complex situation.
+9/19    We took a test today. It wasn't hard but I ran out of time.
