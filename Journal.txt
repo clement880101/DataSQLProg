@@ -5,3 +5,4 @@
 9/05    Today, we learned about the more complex part of ER diagram including weak relationships, relationship with an attribute roles, and relationships with roll. We also cronstruct a few mor ER as a class.\
 9/08	Today, we reviewed the concepts we cover in the past two days on ER diagram. We tackle some complex situation.
 9/19    We took a test today. It wasn't hard but I ran out of time.
+9/22	We made a powerpoint on the different scenario. My group got scenario 1. The ER diagram did not work out the way we envisioned.
