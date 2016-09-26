@@ -6,3 +6,4 @@
 9/08	Today, we reviewed the concepts we cover in the past two days on ER diagram. We tackle some complex situation.
 9/19    We took a test today. It wasn't hard but I ran out of time.
 9/22	We made a powerpoint on the different scenario. My group got scenario 1. The ER diagram did not work out the way we envisioned.
+9/26	We convert a ER diagram to Relational model today. It is pretty easier considering that the basic idea fits with the ER diagram.
