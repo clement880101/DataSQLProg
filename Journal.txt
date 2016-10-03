@@ -7,3 +7,4 @@
 9/19    We took a test today. It wasn't hard but I ran out of time.
 9/22	We made a powerpoint on the different scenario. My group got scenario 1. The ER diagram did not work out the way we envisioned.
 9/26	We convert a ER diagram to Relational model today. It is pretty easier considering that the basic idea fits with the ER diagram.
+10/3	We looked at insertion, deletion, and modification anomalies and understand what causes them. Also, we learned about the normalization  progress. W epresent about them.
