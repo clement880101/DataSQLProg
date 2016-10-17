@@ -10,3 +10,4 @@
 10/3	We looked at insertion, deletion, and modification anomalies and understand what causes them. Also, we learned about the normalization  progress. We present about them.
 10/6	We learned about 3rd normalization form today. We first try to figure out what 3NF is from the example. Then, we try to fix the database anolimities.
 10/12	Me and Andrew try to create a database about cars today.
+10/17	We present the database we constructed last time to the whole class. We identify an issue and solved it together. We also listened to other group presenting.
