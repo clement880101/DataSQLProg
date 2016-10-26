@@ -13,3 +13,4 @@
 10/17	We present the database we constructed last time to the whole class. We identify an issue and solved it together. We also listened to other group presenting.
 10/20	We talked about how to explain 3.5 NF simply. Also, the midterm project is given to us.
 10/24	We worked on our midterm project for the duration of the class.
+11/26	Same as last time.
