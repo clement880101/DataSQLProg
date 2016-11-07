@@ -1,0 +1,25 @@
+CREATE TABLE `Cover`(
+  `ID` INT NOT NULL,
+  `DateYear` DATE NULL,
+  `Number` INT NULL,
+  `Volume` INT NULL,
+  `Editor` VARCHAR(45) NULL,
+  `CoverPic` VARCHAR(100) NULL,
+  `Title` VARCHAR(45) NULL,
+  `NameofArticle` VARCHAR(100) NULL,
+  `URL` VARCHAR(100) NULL,
+  PRIMARY KEY (`ID`)
+);
+
+INSERT INTO Cover(`ID`, `DateYear`, `Number`, `Volume`, `Editor`, `CoverPic`, `Title`, `NameofArticle`, `URL`)
+
+VALUES (1, '2015-01-14', 1 , 1178, 'Gerard Biard', 'Je suis Charlie', 'Tout est pardonne', 'La vie secrete des jeunes', 'https://charliehebdo.fr/en/'),
+
+(2, '2015-12-21', 25, 186, 'Nancy Gibbs', 'Angela Merkel', 'Person of the Year','Chancellor of the Free World', 'http://time.com/magazine/us/4144124/december-21st-2015-vol-186-no-25-u-s/'),
+
+(3,'2016-05-02', 16, 187, 'John Kerry', 'Leonardo DiCaprio', 'The 100 Most Influential People', 'Adele', 'http://time.com/magazine/us/4302990/may-2nd-2016-vol-187-no-16-u-s/'),
+
+(4, '1999-01-01', 16, 153, 'Unknown', 'Luke the Skywalker', 'Star Wars', 'George Lucas talks to Bill Moyers about the Spiritual Side of the Force', 'http://content.time.com/time/covers/0,16641,19990426,00.html');
+
+DELETE FROM Cover
+WHERE `ID` = 4;
