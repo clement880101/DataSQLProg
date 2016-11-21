@@ -19,3 +19,4 @@
 
 11/14 Thanks to my recent event involving registry and system restore point, program files are corrupted. I am unable to recover the password for SQL therefor I reinstal SQL server. It works now. 
 11/17 Today, we learned a series of qeuery. It includes selection conditioning.
+11/21 Today, we learned more query. This include inner join, using, update, set, max, delete, and sum. The query allows us to find a specific answer we wanted. 
