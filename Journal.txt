@@ -1,22 +1,5 @@
-8/22	Today, we learned about version control tool (VCR) and in particular, git. Then, we dowloaded git and try what we just learned hands on. We tried command such as git add/commit/pull/push etc.
-8/25	Today, using pokemon and excel spreadsheet, we tried to prove why spreadsheet database is faulty and that a management system is needed. We started the class by creating a hypothetical pokemon station. We then try to enter the consumer data into a spreadsheet and we identified a few problems.
-8/20	Today, we learned to construct a relational database (that is what I think it is called) where we splice up the big and chuncy table into small table and give ID to each instances. We then cosntruct a base table where the ids related to one another are linked together.
-9/01	Today, we learned how to construct a ER diagram from a relational database. As homework from last time, the relational database is used as an example to construct the ER. I learned that, in ER, rectangle represents entities, oval represents attributes, and rhombus represents relationship. \
-9/05    Today, we learned about the more complex part of ER diagram including weak relationships, relationship with an attribute roles, and relationships with roll. We also cronstruct a few mor ER as a class.\
-9/08	Today, we reviewed the concepts we cover in the past two days on ER diagram. We tackle some complex situation.
-9/19    We took a test today. It wasn't hard but I ran out of time.
-9/22	We made a powerpoint on the different scenario. My group got scenario 1. The ER diagram did not work out the way we envisioned.
-9/26	We convert a ER diagram to Relational model today. It is pretty easier considering that the basic idea fits with the ER diagram.
-10/3	We looked at insertion, deletion, and modification anomalies and understand what causes them. Also, we learned about the normalization  progress. We present about them.
-10/6	We learned about 3rd normalization form today. We first try to figure out what 3NF is from the example. Then, we try to fix the database anolimities.
-10/12	Me and Andrew try to create a database about cars today.
-10/17	We present the database we constructed last time to the whole class. We identify an issue and solved it together. We also listened to other group presenting.
-10/20	We talked about how to explain 3.5 NF simply. Also, the midterm project is given to us.
-10/24	We worked on our midterm project for the duration of the class.
-10/26	Same as last time.
-11/1	Today we set up my SQL workbench.
-11/7	Today, we tried to code a database and insert information in it.
-
 11/14 Thanks to my recent event involving registry and system restore point, program files are corrupted. I am unable to recover the password for SQL therefor I reinstal SQL server. It works now. 
 11/17 Today, we learned a series of qeuery. It includes selection conditioning.
 11/21 Today, we learned more query. This include inner join, using, update, set, max, delete, and sum. The query allows us to find a specific answer we wanted. 
+11/24 Today, we learned to import database using terminal. From that, we practices query.
+11/28 We learned more query commands. This includes group by and as. Group by allows us to group attributes together and view it as one. As can redefine as query into a variable.

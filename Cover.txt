@@ -21,5 +21,5 @@ VALUES (1, '2015-01-14', 1 , 1178, 'Gerard Biard', 'Je suis Charlie', 'Tout est 
 
 (4, '1999-01-01', 16, 153, 'Unknown', 'Luke the Skywalker', 'Star Wars', 'George Lucas talks to Bill Moyers about the Spiritual Side of the Force', 'http://content.time.com/time/covers/0,16641,19990426,00.html');
 
-DELETE FROM Cover
+DROP FROM Cover
 WHERE `ID` = 4;
