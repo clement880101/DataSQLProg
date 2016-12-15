@@ -3,3 +3,11 @@
 11/21 Today, we learned more query. This include inner join, using, update, set, max, delete, and sum. The query allows us to find a specific answer we wanted. 
 11/24 Today, we learned to import database using terminal. From that, we practices query.
 11/28 We learned more query commands. This includes group by and as. Group by allows us to group attributes together and view it as one. As can redefine as query into a variable.
+12/01 We played the find who game using the mystery database.
+12/05 We learn union left and union right. We identified when we need to use these commmands.
+12/08 
+12/12 We work on our sakila database in class today.
+12/15 Today, we present our queries to each others.
+
+
+
