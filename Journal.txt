@@ -1,2 +1,9 @@
 1/11 We listen to Joeph's presentation and work on our own.
 1/16 Today we all present our database. 
+
+In the course, I learned the basic idea of database - what process do people go through, how people think when designing one, and what to look out for.
+Starting from struggle to understand the ER diagram, I slowly progress and grasp the ideas: weak entity, relationship, isa, and attributes. After that,
+I learned how to change ER diagram into relational schemas, and understand the uses for each diagram. We also learned functional dependency and normal forms
+to prevent any anomalies in the data. Lastly, we learned how to construct database with SQL command and find the information we wanted. As you might've known
+I am studing biology in college (along with com sci) and I can see myself using SQL to enter data from the experiment into the database for better analysis
+and comparison. In addition, I may use it one day if I every become an entrepeneur, managing stock.
